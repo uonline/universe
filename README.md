@@ -7,4 +7,3 @@ Project Universe
 * [FaNatizM](https://github.com/FaNatizM) &mdash; artist
 
 And [m1kc](https://github.com/m1kc) is a doorknob.
-
