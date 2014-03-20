@@ -10,10 +10,10 @@ Project Universe
 
 ### Art department
 
-* <del>[AndREI](https://github.com/ryzhikovas) &mdash; writer;</del>
 * [Faceless](https://github.com/FaceLess1) &mdash; game designer, artist;
-* [FaNatizM](https://github.com/FaNatizM) &mdash; artist;
-* [Pale rider](https://github.com/qwe123qw) &mdash; artist.
+* [FaNatizM](https://github.com/FaNatizM) &mdash; artist, writer;
+* <del>[AndREI](https://github.com/ryzhikovas) &mdash; writer;</del>
+* <del>[Pale rider](https://github.com/qwe123qw) &mdash; artist.</del>
 
 
 ### HQ
