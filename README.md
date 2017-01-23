@@ -11,7 +11,7 @@ Project Universe
 ### Art department
 
 * [Faceless](https://github.com/FaceLess1) &mdash; game designer, artist;
-* [FaNatizM](https://github.com/FaNatizM) &mdash; artist, writer;
+* [FaTanizM](https://github.com/FaNatizM) &mdash; artist, writer;
 * <del>[AndREI](https://github.com/ryzhikovas) &mdash; writer.</del>
 
 
